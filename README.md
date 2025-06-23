@@ -14,7 +14,6 @@ This site showcases consultancy services and encourages visitors to get in touch
 - [Pages](#-pages)
 - [Installation](#-installation)
 - [WhatsApp Button Setup](#-whatsapp-button-setup)
-- [Deployment](#-deployment)
 - [Author](#-author)
 
 ---
