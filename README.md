@@ -1,5 +1,5 @@
 
-# 🌍 Global Pathways — Study Abroad Consultancy Website
+# Global Pathways — Study Abroad Consultancy Website
 
 A modern, professional, and fully responsive static website built with **React.js** for a fictional study abroad consultancy named **Global Pathways**.
 
@@ -7,7 +7,7 @@ This site showcases consultancy services and encourages visitors to get in touch
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
@@ -19,20 +19,20 @@ This site showcases consultancy services and encourages visitors to get in touch
 
 ---
 
-## ✨ Features
+## Features
 
-- ⚛️ Built with **React.js**
-- 💨 **Tailwind CSS** for modern, responsive styling
-- 🌐 **Multi-page routing** with React Router DOM
-- 🎨 Clean, pastel-based UI with scroll animations
-- 🔄 Smooth scroll behavior using **Framer Motion**
-- 📱 Fully mobile responsive layout
-- 💬 **WhatsApp chat button**
+- Built with **React.js**
+- **Tailwind CSS** for modern, responsive styling
+- **Multi-page routing** with React Router DOM
+- Clean, pastel-based UI with scroll animations
+- Smooth scroll behavior using **Framer Motion**
+- Fully mobile responsive layout
+- **WhatsApp chat button**
 
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - React.js
 - Tailwind CSS
@@ -42,7 +42,7 @@ This site showcases consultancy services and encourages visitors to get in touch
 
 ---
 
-## 🗂️ Pages
+## Pages
 
 | Page     | Description |
 |----------|-------------|
@@ -84,7 +84,7 @@ In your `Contact.js` or `App.js`, use the following:
 
 ```jsx
 <a
-  href="https://wa.me/919876543210?text=Hi%20Global%20Pathways%2C%20I'm%20interested%20in%20studying%20abroad"
+  href="https://wa.me/917972163624?text=Hi%20Global%20Pathways%2C%20I'm%20interested%20in%20studying%20abroad"
   target="_blank"
   rel="noopener noreferrer"
 >
@@ -106,7 +106,7 @@ Pull requests are welcome. For significant changes, please open an issue first.
 
 ## 👨‍💻 Author
 
-**Aditya Tallare**  
-[GitHub](https://github.com/aditya-tallhari) • [LinkedIn](https://linkedin.com/in/adityatallare)
+**Aditya Tallhari**  
+[GitHub](https://github.com/aditya-tallhari)
 
 ---
